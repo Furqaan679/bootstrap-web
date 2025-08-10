@@ -172,12 +172,15 @@ body {
    padding-top: 120px;
    padding-left: 20px;
 }
-.price{
+.price-choose{
   text-align: center;
  color: #fff;
 }
-.price p{
+.price-choose p{
   padding: 20px;
+}
+.contact{
+  background-color: #f0ecec;
 }
 .info{
   padding: 20px;
